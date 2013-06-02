@@ -1,2 +1,6 @@
-Resumo_GIT_pt_BR
+Resumo GIT :pt_BR
 ================
+
+== Criando um novo repositório.
+
+	git init .
